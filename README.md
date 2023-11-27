@@ -2,9 +2,7 @@
 
 ## I'm Software Engineer
 
-- 🥅 2023 Goals: Contribute more to open source projects
-- 👯 I’m looking to collaborate with other developers
-- ⚡ Fun fact: I love drones...
-- 🤙 Reach me by [Email](mailto:rafikshmoury@gmail.com) or [LinkedIn](https://www.linkedin.com/in/rafikshmoury/)
+- 🥅 2024 Goals: Contribute more to open source projects
+- 👥 Happy to collaborate with other developers
 
 In compliance with my current company's guidelines, we use a different tool for version control.
