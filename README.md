@@ -14,5 +14,5 @@ const user = {
 ## What I'm up to 🔥
 
 - 💻 Building cool stuff at DeepL
-- 🤖 Playing with AI/ML tools and making them useful (ex: **Paceo** - an AI-powered fitness planner & Sawa - Local Charity Funding Platform)
+- 🤖 Playing with AI/ML tools and making them useful (ex: Paceo - an AI powered fitness planner & Sawa - Local Charity Funding Platform)
 - ☕ Probably drinking too much coffee
