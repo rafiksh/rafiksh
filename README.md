@@ -1,7 +1,7 @@
 # Hey there! I'm Rafik 👋
 
 ```typescript
-const developer = {
+const aboutme = {
   name: "Rafik Shmoury",
   role: "Whatever It Takes Engineer",
   passion: "Building stuff that matters",
