@@ -1,7 +1,18 @@
-### Hey, Rafik here 👋
+# Hey there! I'm Rafik 👋
 
-## I'm Software Engineer
+```typescript
+const developer = {
+  name: "Rafik Shmoury",
+  role: "Whatever It Takes Engineer",
+  passion: "Building stuff that matters",
+  coffee: "☕ (essential)",
+  code: "TypeScript, JavaScript, Go, Python, and what is necessary :)",
+  location: "Germany"
+}
+```
 
-- 👥 Happy to collaborate with other developers
+## What I'm up to 🔥
 
-In compliance with my current company's guidelines, we use a different tool for version control.
+- 💻 Building cool stuff at DeepL
+- 🤖 Playing with AI/ML tools and making them useful (ex: **Paceo** - an AI-powered fitness planner & Sawa - Local Charity Funding Platform)
+- ☕ Probably drinking too much coffee
