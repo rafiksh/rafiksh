@@ -3,7 +3,7 @@
 ```typescript
 const user = {
   name: "Rafik Shmoury",
-  role: "Whatever It Takes Engineer",
+  role: "Product Engineer",
   passion: "Building stuff that matters",
   coffee: "☕ (essential)",
   code: "TypeScript, JavaScript, Go, Python, and what is necessary :)",
